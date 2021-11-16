@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARP_DataManipulation_x02", "CSHARP_DataManipulation_x02.csproj", "{15392ABF-26EA-41E4-B91D-37F96AC462AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15392ABF-26EA-41E4-B91D-37F96AC462AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15392ABF-26EA-41E4-B91D-37F96AC462AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15392ABF-26EA-41E4-B91D-37F96AC462AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15392ABF-26EA-41E4-B91D-37F96AC462AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55C711F5-B886-4B0D-B0CE-D99B3ABCB008}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\bin\Debug\DataManagement_x01.mdb
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\bin\Debug\CSHARP_DataManipulation_x02.exe.config
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\bin\Debug\CSHARP_DataManipulation_x02.exe
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\bin\Debug\CSHARP_DataManipulation_x02.pdb
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\obj\Debug\CSHARP_DataManipulation_x02.csprojAssemblyReference.cache
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\obj\Debug\CSHARP_DataManipulation_x02.Form1.resources
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\obj\Debug\CSHARP_DataManipulation_x02.Properties.Resources.resources
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\obj\Debug\CSHARP_DataManipulation_x02.csproj.GenerateResource.cache
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\obj\Debug\CSHARP_DataManipulation_x02.csproj.CoreCompileInputs.cache
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\obj\Debug\CSHARP_DataManipulation_x02.exe
+C:\Users\Jeruzael\source\repos\CSHARP_DataManipulation_x02\obj\Debug\CSHARP_DataManipulation_x02.pdb
